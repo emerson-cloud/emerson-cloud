@@ -3,6 +3,7 @@
 
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://itzelsystem.com.br)
+[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emerson-cloud)
 
 ##
 ![emerson-cloud GitHub stats](https://github-readme-stats.vercel.app/api?username=emerson-cloud&show_icons=true&theme=radical)
