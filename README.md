@@ -1,22 +1,13 @@
-### Olá Eu sou Emerson Luís Colombo 👋
+### Olá Eu sou Emerson Luís Colombo 🖐🏼
 
-<!--
-**emerson-cloud/emerson-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://itzelsystem.com.br)
 
-- 🔭Eu Trabalho com programação back end ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![emerson-cloud GitHub stats](https://github-readme-stats.vercel.app/api?username=emerson-cloud&show_icons=true&theme=radical)
+
 ##
+## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br>
   <img align="center" alt="merson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="merson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,11 +21,11 @@ Here are some ideas to get you started:
   ##
 
   <div>
-
-  <a href = "mailto:luiscolomboemerson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luiscolomboemerson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-    badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emerson-luís-colombo-17829722" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> ****
 
-  </div>
+ </div><br>
+ Quando decidimos que queremos evoluir, nenhuma dificuldade nos tira do nosso caminho.("Marianna Moreno")
  
  
  
